@@ -2,50 +2,57 @@
 
 ページの左側にある **Download ZIP** ボタンを押すとサンプルコードをダウンロードすることができます。コードはこの github のリポジトリからも見ることができます。
 
-### サンプルコードの動作を確認する
-
 1. [第3回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
 
+## わからなくてこまったときは？
 
-## html のタグや css を調べる
+### 1. 授業のスライドを見る
 
-☞ [html クイックリファレンス](http://www.htmq.com/index.htm)
+まずは授業のスライドをみて、わかる友人に質問しましょう。
 
-html クイックリファレンス というサイトに豊富に情報があります。分からない HTML タグや CSS があった場合、まずはここから探してみましょう。
+### 2. Web サイトで調べる
 
-## はぎわら (@hgw) に質問する
+[html クイックリファレンス](http://www.htmq.com/) というサイトに豊富に情報があります。分からない `HTML タグ` や `CSS` があった場合、まずはここから探してみましょう。
+
+
+
+### 3. 動画で理解する
+
+[ドットインストール](http://dotinstall.com/) は、プログラミングにかんするさまざまな技術を解説する3分間動画を配信しているウェブサイトです。無料でも見ることのできる動画はたくさんあります。 `HTML` や `CSS`、`JavaScript` がわからないときは、一度動画で、確認することもおすすめです。 
+
+
+- [HTML入門 \(全24回\)](http://dotinstall.com/lessons/basic_html_v3)
+- [CSS入門 \(全23回\)](http://dotinstall.com/lessons/basic_css_v3)
+- [JavaScript入門 \(全24回\)](http://dotinstall.com/lessons/basic_javascript_v2)
+
+
+### 4. ゲーム感覚で理解する
+
+[CODEPREP](http://codeprep.jp/) は、穴埋め形式でゲーム感覚に html / CSS などを学ぶことができる学習サイト。正解・不正解がその場で入力しながら確認できるので、理解が早いです。
+ 
+
+
+### 5. はぎわら (@hgw) に質問する
+
+#### GitHub で質問する
+
+![](https://cloud.githubusercontent.com/assets/333662/14760720/47e0f740-0986-11e6-86fe-3c4c3bd62281.png)
 
 github には Issue という掲示板のような機能があります。
 なにかわからない事があれば、 Issue から質問をしましょう。サンプルコードなどをまじえて回答します。質問したことが記録に残るので、今後ほかの学生たちの参考にもなります。
 
-1. 自分の質問が [github の Issue](https://github.com/integrated-design/DB2-2015/issues?q=is%3Aissue+label%3Aquestion) にすでにあるかどうかを調べる
-2. wiki の [はじめての HTML あるある](https://github.com/integrated-design/2015-db2-web/wiki/Common-Mistakes-in-HTML) にも目を通す
-2. 過去の質問に当てはまるものがなければ Issue を作る
-  1. **New Issue** ボタンを押して、Issue を作成する
-  2. **タイトル** は質問の内容が簡潔に伝わるようにする
-  3. **Labels** から `question` を選びラベルをつける
-  4. **Assignee** から `@hgw` を選ぶ
-  5. 本文に質問の内容を、具体的に書く
+1. [GitHub の Issue](https://github.com/integrated-design/2016-db2-web/issues) を開く 
+1. **New Issue** ボタンを押して、質問を作成する
+1. **タイトル** は質問の内容が簡潔に伝わるようにする
+1. 本文に質問の内容を、具体的に書く
 
 
-## 自主的に学習する
 
-よい書籍もたくさんでていますが、以下のようなウェブサイトでも学ぶことができます。
-- ドットインストール
-  - 3分間の動画で、さまざまなプログラミングの技術を学ぶことのできる学習サイト。
-  - 丁寧な解説で html や CSS, JavaScript などを学ぶことができます。
-  - http://dotinstall.com/
-- CODEPREP
-  - 穴埋め形式でゲーム感覚に html / CSS などを学ぶことができる学習サイト
-  - 正解・不正解がその場で入力しながら確認できるので、理解が早いです。
-  - http://codeprep.jp/
+#### Slack で質問する
 
-そのほかにも Web 上にはさまざまな解説記事があります。わからないことは自分ですすんで検索するようにしましょう。
+![](https://cloud.githubusercontent.com/assets/333662/14760736/c357e122-0986-11e6-9253-123e1c7fa732.png)
 
-
-## 授業の内容を復習する
-
-授業につかったスライドは課題フォルダからダウンロードができます。
+学科の Slack に専用のチャンネルがあります。 `#db2web` に質問をくれたら回答します。
 
 
 ## 関連リンク
