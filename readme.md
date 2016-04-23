@@ -36,7 +36,7 @@
 
 #### GitHub で質問する
 
-![](https://cloud.githubusercontent.com/assets/333662/14760720/47e0f740-0986-11e6-86fe-3c4c3bd62281.png)
+<img src="https://cloud.githubusercontent.com/assets/333662/14760720/47e0f740-0986-11e6-86fe-3c4c3bd62281.png" width="300">
 
 github には Issue という掲示板のような機能があります。
 なにかわからない事があれば、 Issue から質問をしましょう。サンプルコードなどをまじえて回答します。質問したことが記録に残るので、今後ほかの学生たちの参考にもなります。
@@ -50,7 +50,7 @@ github には Issue という掲示板のような機能があります。
 
 #### Slack で質問する
 
-![](https://cloud.githubusercontent.com/assets/333662/14760736/c357e122-0986-11e6-9253-123e1c7fa732.png)
+<img src="https://cloud.githubusercontent.com/assets/333662/14760736/c357e122-0986-11e6-9253-123e1c7fa732.png" width="300">
 
 学科の Slack に専用のチャンネルがあります。 `#db2web` に質問をくれたら回答します。
 
