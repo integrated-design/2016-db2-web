@@ -1,0 +1,89 @@
+
+.color-red {
+   color: red;
+}
+
+
+/*
+背景色を赤 (#ff3333) にします。
+*/
+.bg-yellow {
+  background-color: yellow;
+}
+
+
+/*
+  フォントを太字にします
+*/
+.bold-text {
+  font-weight: bold;
+}
+
+
+/*
+  フォントを斜体にします
+*/
+.italic-text {
+  font-style: italic;
+}
+
+
+/*
+  下線をひきます
+*/
+.with-underline {
+  text-decoration: underline;
+}
+
+
+/*
+  文字に影をつけます
+*/
+.with-shadow {
+  text-shadow: 3px 3px 5px gray;
+}
+
+
+/*
+  文字間(レタースペーシング) を広げます
+*/
+.with-spacing {
+  letter-spacing: 0.3em;
+}
+
+
+/*
+  文字のサイズを 150% に大きくします
+*/
+
+.large-text {
+  font-size: 150%;
+}
+
+
+/*
+  フォントをセリフ体に変更します
+  サンセリフ体というのは、明朝体のこと。
+*/
+.serif {
+  font-size: 125%;
+  font-family: serif;
+}
+
+
+/*
+  フォントをサンセリフ体に変更します
+  サンセリフ体というのは、ゴシック体のこと。
+*/
+.sans-serif {
+  font-size: 125%;
+  font-family: sans-serif;
+}
+
+
+/*
+  テキストを中央揃えにします。
+*/
+.center {
+  text-align: center;
+}

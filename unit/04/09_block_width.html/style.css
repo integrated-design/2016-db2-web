@@ -1,0 +1,24 @@
+
+/*
+  幅をパーセントで指定する
+*/
+.sotogawa-50p {
+  width: 50%; /* window の幅に対して 50% の幅をキープする*/
+  background-color: green;
+
+  /* 左右のマージンを自動で調整するようにして中央寄せにする */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+  幅をピクセル単位で指定する
+*/
+.sotogawa-500px {
+  width: 500px; /* 500px の幅をキープする  */
+  background-color: yellow;
+
+  /* 左右のマージンを自動で調整するようにして中央寄せにする */
+  margin-left: auto;
+  margin-right: auto;
+}

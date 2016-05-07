@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+}
+
+.responsive{
+  font-size: 20px;
+  color: white;
+  background-color: red;
+}
+
+/*
+
+レスポンシブの指定には @media という命令を使います。
+
+ */
+
+/* ウィンドウが 600px 以下のとき */
+@media (max-width: 600px) {
+  .responsive {
+    font-size: 16px;
+    background-color: blue;
+  }
+}
+
+/* ウィンドウが 601px〜980px のとき */
+@media  (min-width: 601px) and (max-width: 980px) {
+  .responsive {
+    font-size: 18px;
+    background-color: green;
+  }
+}
