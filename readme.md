@@ -2,7 +2,8 @@
 
 ページの左側にある **Download ZIP** ボタンを押すとサンプルコードをダウンロードすることができます。コードはこの github のリポジトリからも見ることができます。
 
-1. [第3回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
+1. [第 3 回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
+1. [第 4 回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/04/)
 
 ## わからなくてこまったときは？
 
@@ -21,9 +22,9 @@
 [ドットインストール](http://dotinstall.com/) は、プログラミングにかんするさまざまな技術を解説する3分間動画を配信しているウェブサイトです。無料でも見ることのできる動画はたくさんあります。 `HTML` や `CSS`、`JavaScript` がわからないときは、一度動画で、確認することもおすすめです。 
 
 
-- [HTML入門 \(全24回\)](http://dotinstall.com/lessons/basic_html_v3)
-- [CSS入門 \(全23回\)](http://dotinstall.com/lessons/basic_css_v3)
-- [JavaScript入門 \(全24回\)](http://dotinstall.com/lessons/basic_javascript_v2)
+- [HTML 入門 \(全24回\)](http://dotinstall.com/lessons/basic_html_v3)
+- [CSS 入門 \(全23回\)](http://dotinstall.com/lessons/basic_css_v3)
+- [JavaScript 入門 \(全24回\)](http://dotinstall.com/lessons/basic_javascript_v2)
 
 
 ### 4. ゲーム感覚で理解する
