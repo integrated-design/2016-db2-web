@@ -9,6 +9,7 @@
   /* 左右のマージンを自動で調整するようにして中央寄せにする */
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 100px;
 }
 
 /*
@@ -21,4 +22,17 @@
   /* 左右のマージンを自動で調整するようにして中央寄せにする */
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 100px;
+}
+
+
+.left {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+
+.right {
+  margin-left: auto;
+  margin-right: 0;
 }
