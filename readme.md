@@ -2,8 +2,10 @@
 
 ページの左側にある **Download ZIP** ボタンを押すとサンプルコードをダウンロードすることができます。コードはこの github のリポジトリからも見ることができます。
 
-1. [第 3 回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
-1. [第 4 回 html の基礎](http://integrated-design.jp/DB2web/2016/unit/04/)
+1. 第 1 回 授業ガイダンス
+1. 第 2 回 架空の人物になりきってウソの日記を作る
+1. [第 3 回 HTML の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
+1. [第 4 回 CSS の基礎](http://integrated-design.jp/DB2web/2016/unit/04/)
 
 ## わからなくてこまったときは？
 
