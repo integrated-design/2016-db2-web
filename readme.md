@@ -8,7 +8,7 @@
 1. 第 4 回 架空の人物になりきってウソの日記を作る 03。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/04/)。
 1. 第 5 回 ウェブとアーキテクチャ。 IFTTT で Web API をつなごう。
 1. 第 6 回 ウェブと Remix 01。 著作権とライセンスについて、その特性を知ったうえでフリー素材を作ろう。
-1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/07/)。
+1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編 02](http://integrated-design.jp/DB2web/2016/unit/07/)。
 
 ## わからなくてこまったときは？
 
