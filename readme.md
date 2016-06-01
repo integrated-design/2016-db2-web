@@ -3,9 +3,12 @@
 ページの左側にある **Download ZIP** ボタンを押すとサンプルコードをダウンロードすることができます。コードはこの github のリポジトリからも見ることができます。
 
 1. 第 1 回 授業ガイダンス
-1. 第 2 回 架空の人物になりきってウソの日記を作る
-1. [第 3 回 HTML の基礎](http://integrated-design.jp/DB2web/2016/unit/03/)
-1. [第 4 回 CSS の基礎](http://integrated-design.jp/DB2web/2016/unit/04/)
+1. 第 2 回 架空の人物になりきってウソの日記を作る 01。
+1. 第 3 回 架空の人物になりきってウソの日記を作る 02。 [HTML の基礎編](http://integrated-design.jp/DB2web/2016/unit/03/)。
+1. 第 4 回 架空の人物になりきってウソの日記を作る 03。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/04/)。
+1. 第 5 回 ウェブとアーキテクチャ。 IFTTT で Web API をつなごう。
+1. 第 6 回 ウェブと Remix 01。 著作権とライセンスについて、その特性を知ったうえでフリー素材を作ろう。
+1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/07/)。
 
 ## わからなくてこまったときは？
 
