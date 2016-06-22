@@ -4,11 +4,11 @@
 
 1. 第 1 回 授業ガイダンス
 1. 第 2 回 架空の人物になりきってウソの日記を作る 01。
-1. 第 3 回 架空の人物になりきってウソの日記を作る 02。 [HTML の基礎編](http://integrated-design.jp/DB2web/2016/unit/03/)。
-1. 第 4 回 架空の人物になりきってウソの日記を作る 03。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/04/)。
+1. 第 3 回 架空の人物になりきってウソの日記を作る 02。 [HTML の基礎編](http://integrated-design.jp/DB2web/2016/unit/03-html/)。
+1. 第 4 回 架空の人物になりきってウソの日記を作る 03。 [CSS の基礎編](http://integrated-design.jp/DB2web/2016/unit/04-html-css/)。
 1. 第 5 回 ウェブとアーキテクチャ。 IFTTT で Web API をつなごう。
 1. 第 6 回 ウェブと Remix 01。 著作権とライセンスについて、その特性を知ったうえでフリー素材を作ろう。
-1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編 02](http://integrated-design.jp/DB2web/2016/unit/07/)。
+1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編 02](http://integrated-design.jp/DB2web/2016/unit/07-html-css-2/)。
 
 ## わからなくてこまったときは？
 
@@ -24,7 +24,7 @@
 
 ### 3. 動画で理解する
 
-[ドットインストール](http://dotinstall.com/) は、プログラミングにかんするさまざまな技術を解説する3分間動画を配信しているウェブサイトです。無料でも見ることのできる動画はたくさんあります。 `HTML` や `CSS`、`JavaScript` がわからないときは、一度動画で、確認することもおすすめです。 
+[ドットインストール](http://dotinstall.com/) は、プログラミングにかんするさまざまな技術を解説する3分間動画を配信しているウェブサイトです。無料でも見ることのできる動画はたくさんあります。 `HTML` や `CSS`、`JavaScript` がわからないときは、一度動画で、確認することもおすすめです。
 
 
 - [HTML 入門 \(全24回\)](http://dotinstall.com/lessons/basic_html_v3)
@@ -35,7 +35,7 @@
 ### 4. ゲーム感覚で理解する
 
 [CODEPREP](http://codeprep.jp/) は、穴埋め形式でゲーム感覚に html / CSS などを学ぶことができる学習サイト。正解・不正解がその場で入力しながら確認できるので、理解が早いです。
- 
+
 
 
 ### 5. はぎわら (@hgw) に質問する
@@ -47,7 +47,7 @@
 github には Issue という掲示板のような機能があります。
 なにかわからない事があれば、 Issue から質問をしましょう。サンプルコードなどをまじえて回答します。質問したことが記録に残るので、今後ほかの学生たちの参考にもなります。
 
-1. [GitHub の Issue](https://github.com/integrated-design/2016-db2-web/issues) を開く 
+1. [GitHub の Issue](https://github.com/integrated-design/2016-db2-web/issues) を開く
 1. **New Issue** ボタンを押して、質問を作成する
 1. **タイトル** は質問の内容が簡潔に伝わるようにする
 1. 本文に質問の内容を、具体的に書く
