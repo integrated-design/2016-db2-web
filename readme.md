@@ -42,6 +42,8 @@
 
 #### 相談窓口でメッセージを送る
 
+<img src="https://cloud.githubusercontent.com/assets/333662/16416767/bd91df8c-3d7e-11e6-80a9-546dc6734eba.png" width="300">
+
 [はぎわら相談窓口](http://goo.gl/forms/bZHp6F4GFldfXht32) を開設しました！授業でわからないことなどあれば、使ってください。
 
 
