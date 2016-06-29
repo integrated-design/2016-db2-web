@@ -40,6 +40,13 @@
 
 ### 5. はぎわら (@hgw) に質問する
 
+#### 相談窓口でメッセージを送る
+
+<img src="https://cloud.githubusercontent.com/assets/333662/16416767/bd91df8c-3d7e-11e6-80a9-546dc6734eba.png" width="300">
+
+[はぎわら相談窓口](http://goo.gl/forms/bZHp6F4GFldfXht32) を開設しました！授業でわからないことなどあれば、使ってください。
+
+
 #### GitHub で質問する
 
 <img src="https://cloud.githubusercontent.com/assets/333662/14760720/47e0f740-0986-11e6-86fe-3c4c3bd62281.png" width="300">
