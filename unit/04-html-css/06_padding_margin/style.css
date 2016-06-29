@@ -3,15 +3,21 @@ body {
 }
 
 
-/* padding は内側に余白を作ります */
+/*
+padding は内側に余白を作ります
+
+*/
 .padding-box {
 
   background-color: silver;
 
-  padding-top: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  /*
+  まとめて padding: 40px; と書くこともできる
+  */
 }
 
 
@@ -21,8 +27,11 @@ body {
 
   background-color: silver;
 
-  margin-top: 50px;
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  /*
+  まとめて margin: 40px; と書くこともできる
+  */
 }
