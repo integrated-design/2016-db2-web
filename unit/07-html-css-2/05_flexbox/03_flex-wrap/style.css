@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+/*
+
+flex-wrap: xxxxx;
+子要素が親要素を飛び出してしまうときの処理を指定します。
+
+flex-wrap:nowrap; ... 折り返さない（初期値）
+flex-wrap:wrap; ... 親要素に合わせて折り返す
+flex-wrap:wrap-reverse; ... 折り返えしつつ逆順
+
+以下のサンプルでは親要素が幅: 1000px に対し、幅 200px の子要素が 6 つ存在する。その場合、 flex-wrap で飛び出してしまう子要素の挙動を指定できる。
+*/
+.box{
+  width: 1000px;
+  background: red;
+
+  display: flex;
+  flex-wrap: wrap;   
+}
+
+.child-1,
+.child-2,
+.child-3,
+.child-4,
+.child-5,
+.child-6{
+  width: 200px;
+  height: 200px;
+  background: lightgray;
+  border: 1px solid black;
+  box-sizing: border-box;
+}

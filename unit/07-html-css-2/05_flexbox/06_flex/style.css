@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+.box{
+  width: 1080px;
+  background: red;
+  display: flex;
+}
+
+.child-1,
+.child-2,
+.child-3,
+.child-4,
+.child-5,
+.child-6{
+  background: lightgray;
+  border: 1px solid black;
+  box-sizing: border-box;
+  height: 200px;
+}
+
+/* ====================================================
+
+flex: 伸縮率
+
+子要素に flex を指定すると伸縮率を自在に指定することができます。
+子要素の flex を合計して比率を自動的に調整します。
+
+
+
+flex をすべて 1 とすると
+親要素の領域を 6 等分（子要素の数）した大きさが割り当てられます。
+====================================================== */
+.child-1{
+  flex: 1;
+}
+
+.child-2{
+  flex: 1;
+}
+
+/*
+  もし flex をここだけ 3 にすると
+  子要素の分割数が 1+1+3+1+1+1 で 8 となり
+  3/8 のサイズが割り当てられます。
+ */
+.child-3{
+  flex: 1;
+  /*
+  flex: 3;
+  */
+}
+
+.child-4{
+  flex: 1;
+}
+
+.child-5{
+  flex: 1;
+}
+
+.child-6{
+  flex: 1;
+}

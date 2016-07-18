@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+/*
+
+justify-content:xxxx;
+
+
+ 水平方向の揃え方
+justify-content:flex-start = 左・上揃えにする
+justify-content:flex-end = 右・下揃えにする
+justify-content:center = 中央揃えにする
+justify-content:space-between = 均等にすき間をあける
+justify-content:space-around = 均等にすき間をあける (左右の端も！)
+
+*/
+.box{
+  width: 1000px;
+  background: red;
+  display: flex;
+  justify-content: space-between;
+}
+
+.child-1,
+.child-2,
+.child-3,
+.child-4,
+.child-5,
+.child-6{
+  width: 100px;
+  height: 100px;
+  background: lightgray;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
