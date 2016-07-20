@@ -15,12 +15,28 @@ flex-direction:column-reverse; ... 縦方向に逆順に並べる
 .box{
     display: flex;
     flex-direction:row-reverse;
+
+    border: 1px solid gray;
+    background: red;
 }
 
-.child-1, .child-2, .child-3{
+.child-1{
   width: 200px;
   height: 200px;
   background: lightgray;
-  border: 1px solid black;
+  box-sizing: border-box;
+}
+
+.child-2{
+  width: 200px;
+  height: 200px;
+  background: white;
+  box-sizing: border-box;
+}
+
+.child-3{
+  width: 200px;
+  height: 200px;
+  background: lightgray;
   box-sizing: border-box;
 }

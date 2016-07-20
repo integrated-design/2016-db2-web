@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
 .box{
-  width: 1080px;
-  background: red;
   display: flex;
+
+  background: red;
+  border: 1px solid gray;
 }
 
 .child-1,
@@ -13,9 +14,14 @@
 .child-5,
 .child-6{
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
   height: 200px;
+}
+
+.child-2,
+.child-4,
+.child-6{
+  background: white;
 }
 
 /* ====================================================
@@ -44,10 +50,7 @@ flex をすべて 1 とすると
   3/8 のサイズが割り当てられます。
  */
 .child-3{
-  flex: 1;
-  /*
   flex: 3;
-  */
 }
 
 .child-4{

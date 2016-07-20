@@ -14,10 +14,11 @@ flex-wrap:wrap-reverse; ... 折り返えしつつ逆順
 */
 .box{
   width: 1000px;
-  background: red;
-
   display: flex;
-  flex-wrap: wrap;   
+  flex-wrap: wrap;
+
+  background: red;
+  border: 1px solid gray;
 }
 
 .child-1,
@@ -29,6 +30,11 @@ flex-wrap:wrap-reverse; ... 折り返えしつつ逆順
   width: 200px;
   height: 200px;
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
+}
+
+.child-2,
+.child-4,
+.child-6{
+  background: white;
 }

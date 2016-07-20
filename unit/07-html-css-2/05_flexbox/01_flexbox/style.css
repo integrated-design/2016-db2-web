@@ -8,21 +8,21 @@ display: flex; でこ要素を柔軟に並べることができる
 */
 .box{
     display: flex;
+    border: 1px solid gray;
+    background: red;
 }
 
 .child-1{
   width: 200px;
   height: 200px;
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
 }
 
 .child-2{
   width: 200px;
   height: 200px;
-  background: lightgray;
-  border: 1px solid black;
+  background: white;
   box-sizing: border-box;
 }
 
@@ -30,6 +30,5 @@ display: flex; でこ要素を柔軟に並べることができる
   width: 200px;
   height: 200px;
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
 }

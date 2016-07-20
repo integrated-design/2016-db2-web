@@ -15,9 +15,11 @@ stretch = 大きい要素に合わせて伸縮させる
 */
 .box{
   width: 1200px;
-  background: red;
   display: flex;
   align-items: center;
+
+  background: red;
+  border: 1px solid gray;
 }
 
 .child-1,
@@ -29,7 +31,6 @@ stretch = 大きい要素に合わせて伸縮させる
   width: 200px;
   height: 150px;
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
 }
 
@@ -38,4 +39,10 @@ stretch = 大きい要素に合わせて伸縮させる
 .child-5{
   height: 250px;
   font-size: 60px;
+}
+
+.child-2,
+.child-4,
+.child-6{
+  background: white;
 }

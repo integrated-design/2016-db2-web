@@ -16,9 +16,11 @@ justify-content:space-around = 均等にすき間をあける (左右の端も�
 */
 .box{
   width: 1000px;
-  background: red;
   display: flex;
   justify-content: space-between;
+
+  background: red;
+  border: 1px solid gray;
 }
 
 .child-1,
@@ -30,6 +32,12 @@ justify-content:space-around = 均等にすき間をあける (左右の端も�
   width: 100px;
   height: 100px;
   background: lightgray;
-  border: 1px solid black;
   box-sizing: border-box;
+}
+
+
+.child-2,
+.child-4,
+.child-6{
+  background: white;
 }
