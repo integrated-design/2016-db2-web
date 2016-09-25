@@ -9,6 +9,14 @@
 1. 第 5 回 ウェブとアーキテクチャ。 IFTTT で Web API をつなごう。
 1. 第 6 回 ウェブと Remix 01。 著作権とライセンスについて、その特性を知ったうえでフリー素材を作ろう。
 1. 第 7 回 ウェブと Remix 02。 [CSS の基礎編 02](http://integrated-design.jp/DB2web/2016/unit/07-html-css-2/)。
+1. 第 8 回 前期の課題レビュー
+1. 第 9 回 ペルソナ設定と企画
+1. 第 10 回 HTML と CSS を思い出す
+1. 第 11 回 HTML と CSS を思い出す 02
+1. 第 12 回 JavaScript と jQuery [jQuery のサンプル](http://integrated-design.jp/DB2web/2016/unit/11-javascript-jquery/)
+1. 第 13 回 FTP によるファイル転送
+1. 第 14 回 ウェブサイトのプレゼン大会
+1. 第 15 回 全体のレビュー
 
 ## わからなくてこまったときは？
 
