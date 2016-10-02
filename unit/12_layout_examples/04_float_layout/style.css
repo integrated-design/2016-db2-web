@@ -1,0 +1,49 @@
+/*
+  HTML や Body 要素が最初からもっている
+  マージン情報をリセットする
+*/
+html, body{
+  margin: 0;
+}
+
+/*
+  幅を 980px として、画面の中央にくるようにします。
+*/
+.wrap {
+  width: 980px;
+  /*
+  上下を 0
+  左右を auto
+  */
+  margin: 0 auto;
+  background: #eee;
+}
+
+/*
+  サイドバーを float:left; で左側に回り込ませます
+*/
+.side {
+  float: left;
+  width: 200px;
+
+  background: #ccc;
+}
+
+/*
+  メインエリアを float:left; で左側に回り込ませます
+*/
+.main {
+  float: left;
+  width: 780px;
+  background: #999;
+}
+
+
+.copylight{
+  /*
+    メインとサイトバーの回り込みを clear: left; で解除します
+  */
+  clear: left;
+  text-align: center;
+  padding: 25px 0;
+}
